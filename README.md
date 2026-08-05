@@ -54,6 +54,8 @@ The source data is stored across four main tables in PostgreSQL:
 * **Spend vs. Leads Analysis:** Dual-axis chart showcasing monthly expenditure alongside leads generated, complete with a floating correlation metric tile.
 * **Scatter Plot (Campaign Efficiency):** Evaluates campaign ROI/efficiency vs. Spend, with color-coding by platform (`source`) and node size reflecting total lead volume.
 * **Filter Action:** Dynamic filtering that zooms into specific campaign performance across trends upon selecting a data point in the Scatter Plot.
+  
+<img width="1839" height="1349" alt="Dashboard 2" src="https://github.com/user-attachments/assets/23ac1e90-2255-4a74-9609-729151aabf59" />
 
 ---
 
