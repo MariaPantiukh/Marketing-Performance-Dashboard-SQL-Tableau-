@@ -31,7 +31,6 @@ The source data is stored across four main tables in PostgreSQL:
 * **Handling Nulls:** Handled missing/null metric values using the `COALESCE` function.
 * **Aggregations:** Calculated foundational totals for Spend, Clicks, Impressions, Reach, Leads, and Value.
 
-> 📁 *The complete SQL script can be found in the [`/sql`](./sql) folder.*
 
 ---
 
