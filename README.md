@@ -60,7 +60,7 @@ The source data is stored across four main tables in PostgreSQL:
 
 ## 🔗 Live Interactive Dashboard
 
-📁 **View the Interactive Dashboard on Tableau Public:** 👉 [(https://public.tableau.com/shared/F2F3FFS9S?:display_count=n&:origin=viz_share_link)]
+📁 **View the Interactive Dashboard on Tableau Public:** 👉 [(https://public.tableau.com/shared/PG958KKY7?:display_count=n&:origin=viz_share_link)]
 
 ---
 ## Executive Summary & Campaign Performance Insights
