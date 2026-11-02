@@ -41,7 +41,7 @@ The source data is stored across four main tables in PostgreSQL:
 * **CPC:** `SUM([Spend]) / SUM([Clicks])`
 * **CPM:** `(SUM([Spend]) / SUM([Impressions])) * 1000`
 * **CPL:** `SUM([Spend]) / SUM([Leads])`
-* **ROMI:** `SUM([Value]) / SUM([Spend])`
+* **ROMI:** `(SUM([Value]) - SUM([Spend])) / SUM([Spend])`
 * **Clicks to Leads Conv.:** `SUM([Leads]) / SUM([Clicks])`
 * **Reach to Leads Conv.:** `SUM([Leads]) / SUM([Reach])`
 * **Monthly Leads (Fixed LOD):** `{ FIXED [Month]: SUM([Leads]) }`
